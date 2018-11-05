@@ -10,6 +10,12 @@
     <title>Fruit-Stop AB</title>
 	<style>
 		
+		img {
+			border-radius: 8px;
+		}
 		
+		.container{
+			background-color: blue;
+		}
 		
 	</style>

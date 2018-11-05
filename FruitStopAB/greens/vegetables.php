@@ -35,13 +35,20 @@
 
 <div class="container">
 
-<div class="row-sm-4, row-md-8">	
-    <div class="col-sm-4">
-			<img src="https://www.bellavitashop.co.uk/1462-large_default/cucumber-each.jpg">
+<div class="row">	
+    <div class="col-sm-12, col-sm-6">
+			<img src="cucumber.jpg"  alt='Cucumber' 
+				 width='300' height='300'>
 			<h2>Cucumber</h2>
 		</div>
-    <div class="col-sm-4">
-			<img src="https://www.azernews.az/media/2017/08/10/pomidor-dlya-volos.jpg">
+    <div class="col-sm-12, col-sm-6">
+			<img src="tomatos.jpg" alt='Tomato' 
+				 width='300' height='300'>
+			<h2>Tomato</h2>
+		</div>
+	<div class="col-sm-12, col-sm-6">
+			<img src="tomatos.jpg" alt='Tomato' 
+				 width='300' height='300'>
 			<h2>Tomato</h2>
 		</div>
 </div>

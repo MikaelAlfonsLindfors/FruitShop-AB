@@ -34,13 +34,25 @@
 </nav>
 
 <div class="container">
-<div class="row-sm-12">	
-    <div class="col-sm-12, col-md-5">
-			<img src="https://www.realfoods.co.uk/ProductImagesID/449_1.jpg">
+<div class="row" >	
+    <div class="col-sm-12 col-md-6">
+			<img src="gooseberries.jpg" alt='Gooseberry' 
+				 width='300' height='300'>
 			<h2>Gooseberries</h2>
+		<p>Beware</p>
+		<p>the</p>
+		<p>Thunder</p>
+			
+		
 		</div>
-    <div class="col-sm-12, col-md-5">
-			<img src="https://i5.walmartimages.ca/images/Large/250/8_r/6000196012508_R.jpg">
+    <div class="col-sm-12 col-md-6">
+			<img src="blueberries.jpg" alt='Blueberry' 
+				 width='300' height='300'>
+			<h2>Blueberries</h2>
+		</div>
+    <div class="col-sm-12 col-md-6">
+			<img src="blueberries.jpg" alt='Blueberry' 
+				 width='300' height='300'>
 			<h2>Blueberries</h2>
 		</div>
 </div>

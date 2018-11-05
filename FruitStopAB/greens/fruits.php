@@ -35,14 +35,21 @@
 
 <div class="container">
 
-<div class="row-sm-6, row-md-12">	
-    <div class="col-md-6">
-			<img src="oranges.jpg">
+<div class="row">	
+    <div class="col-sm-12, col-sm-6">
+			<img src="oranges.jpg" alt='Orange' 
+				 width='300' height='300'>
 			<h2>Oranges</h2>
 		</div>
-    <div class="col-md-6">
-			<img src="pears.jpg">
+    <div class="col-sm-12, col-sm-6">
+			<img src="pears.jpg" alt='Pear' 
+				 width='300' height='300'>
 			<h2>Pears</h2>
 		</div>
+    <div class="col-sm-12, col-sm-6">
+			<img src="pears.jpg" alt='Pear' 
+				 width='300' height='300'>
+			<h2>Pears</h2>
+		</div>	
 </div>
 </div>
